@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Buchesko
+- 👋 Hi, I’m @Lukasz
 - 👀 I’m interested in It solution
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
